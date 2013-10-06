@@ -1,0 +1,16 @@
+- not my first experience -- childhood
+- intro witnesses - door to door - training
+- Thursday nights Theocratic Ministry School
+- volume & pausing
+- audience contact & use of notes
+- sense stress & modulation
+- nervous boy, clip on tie, moses parting the red sea -- got his gesture in for "repetition & gestures"
+- sounds like just Toastmasters
+- the catch: only men get to address the audience
+- sister do skits
+- complain to my mom
+- skits are like miniature plays
+- the lessons you learn are about how to write plays (intro of conflict,  development of conflict, rising action to the moment of climax where the householder is persuaded to buy the tract)
+- so the lessons learned *in practice* aren't applicable to what I'm doing right now standing in front of you
+- the theory is still useful, what I remember of it 30+ years later
+- so here I am, ready to learn public speaking straight on, complete with a gesture for Moses parting the red sea
