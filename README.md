@@ -1,13 +1,20 @@
 # toastmasters
 
-My toastmasters speeches, as markdown.
+My toastmasters speeches, as Markdown.
 
 ## About
+
+[Toastmasters International](http://www.toastmasters.org) is, according to [Wikipedia](http://en.wikipedia.org/wiki/Toastmasters):
+
+> a nonprofit educational organization that operates clubs worldwide for the purpose of helping members improve their communication, public speaking and leadership skills.
+
+I'm a member of the [Palo Alto Early Risers](http://2117.toastmastersclubs.org) club. I'm doing this to improve my public speaking skills for conferences. And so far I have to say, it's working.
+
 
 ## TOC
 
 * [Speech 01](01/index.md) - The Icebreaker
-* [Speech 02](02/index.md) - Organize
+* [Speech 02](02/index.md) - Organize your speech
 
 ## CC License
 
