@@ -2,13 +2,15 @@
 
 # Why, Robot?
 
+Hello, CascadiaJS friends.
+
 The other day I watched the most amazing video on youtube. Boston Dynamic released some footage of its Wildcat robot running around in circles. Now this thing is the size of a Shetland pony. It runs on a two-stroke engine, like a chainsaw. The video starts with the operators firing up the engine in a cloud of blue smoke then booking on out of there. And then the Wildcat runs in circles around a parking lot. All this is funded by DARPA. Probably they're going to strap rockets to it next.
 
 Robots are obviously serious business. They obviously require serious programming languages.
 
-Right? Well, that's the belief of a lot of programmers. The Tessell project appeared on a well-known programmers' forum the other day. The Tessell is the moral equivalent of an Arduino-- a tiny ARM board with lots of great access to I/O pins. You write node-style javascript, and the Tessell runs it. Okay, it JITs it to Lua bytecode on the board, but the crazy reality is that you're not running C on this tiny thing. You're running Javascript.
+Right? Well, that's the belief of a lot of programmers. The Tessell project appeared on Hacker News the other day. The Tessell is the moral equivalent of an Arduino-- a tiny ARM board with lots of great access to I/O pins. You write node-style javascript, and the Tessell runs it. Okay, it JITs it to Lua bytecode on the board, but the crazy reality is that you're not running C on this tiny thing. You're running Javascript.
 
-This might seem to you & me to be awesome, but the hackers on that news site were there to tell us all otherwise. The Tessell is an abomination. You can't do hardware programming in javascript or lua! It's not reliable! It's slow! It'll garbage-collect on you! You need to do embedded hardware programming in a real language, like C! Or ARM assembly! While walking uphill both ways in the snow barefoot, like a real programmer does.
+This might seem to you & me to be awesome, but the hackers on that news site were there to tell us all otherwise. The Tessell is an abomination. You can't do hardware programming in javascript or lua! It's not reliable! It's slow! It'll garbage-collect on you! You need to do embedded hardware programming in a real language, like C! Or ARM assembly! While walking uphill both ways in the snow barefoot, like a real programmer.
 
 Yeah, I don't buy that.
 
@@ -16,9 +18,7 @@ I think we need to turn this question around. Why should we do it in C? Because 
 
 Why do embedded programmers use C anyway?
 
-- They have real-time performance requirements.
-- They're operating in heavily resource-constrained environments, where they're counting bytes to keep their memory use down.
-- Until recently, it was *the only feasible approach.* Hardware was tiny and slow, and if it wasn't tiny it was expensive. C is the high-level language that gives you the control you need over memory in those tiny environments. It's unparalleled at this.
+Until recently, it was *the only feasible approach.* Hardware was tiny and slow, and if it wasn't tiny it was expensive. C is the high-level language that gives you the control you need over memory in those tiny environments. It's unparalleled at this. If you've got real-time performance requirements-- say you're running a bone saw doing hip surgery-- C is what you'll choose. And if you're operating in heavily resource-constrained environments, where you're counting bytes to keep memory use down, C is what you'll choose.
 
 But guess what. Environments aren't tiny any more, in this era of the ARM processor. These things may be physically tiny, but they're not slow. And they're not expensive. Not any more. Two breakthrough boards are responsible for kicking off this new era, and they're amazingly cheap. 
 
@@ -43,8 +43,8 @@ No. The history of programming languages says no. We invented assembler because 
 
 The Raspberry Pi is a modern computer. It's got CPU cycles coming out its ears. Run your favorite language on it. You already know the language; your startup time is zero. You can concentrate on solving the robotics problem, not on struggling with your tools. And if you're just learning to program in the first place, you get to have all the fun of blinking an LED or moving a robot arm with a programming language that doesn't slice your fingers off.
 
-It's that last point that has me the most excited. Hardware hacking is accessible now. It's accessible to everybody. The Raspberry Pi was developed to get a hackable computer back into schoolrooms in the UK, so today's kids could have programming experiences more like the ones my generation had, with computers like the Apple II and the BBC Acorn. Guess what! It's working. Kids are 
+It's that last point that has me the most excited. Hardware hacking is accessible now. It's accessible to everybody. The Raspberry Pi was developed to get a hackable computer back into schoolrooms in the UK, so today's kids could have programming experiences more like the ones my generation had, with computers like the Apple II and the BBC Acorn. Guess what! It's working. Hardware hacking is accessible to kids again it.
 
-You can too. And next I'm going to show you how.
+It's accessible to you, too.  And next I'm going to show you how.
 
 Thank you.
