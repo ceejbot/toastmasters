@@ -10,17 +10,17 @@ The Tessel project appeared on Hacker News the other day. The Tessel is the mora
 
 This might seem to you & me to be awesome, but the Hacker News people were there to tell us all otherwise. The Tessel is an abomination. You can't do hardware programming in javascript or lua! It's not reliable! It's slow! It'll garbage-collect on you! You need to do embedded hardware programming in a real language, like C! Or ARM assembly! While walking uphill both ways in the snow barefoot, like a real programmer.
 
-The other day I watched the most amazing video on youtube. Boston Dynamics released some footage of its Wildcat robot. Now this thing is the size of a Shetland pony. It runs on a two-stroke engine, like a chainsaw. The video starts with the operators firing up the engine in a cloud of blue smoke then booking on out of there. And then the Wildcat walks, bounds, and then gallops in circles around a parking lot. State of the art in robotics! All this is funded by DARPA. Probably they're going to strap rockets to it next.
-
-Robots are obviously serious business. They obviously require serious programming languages. 
+Hardware iz serious business. Hardware obviously requires serious programming languages. 
 
 Yeah, I don't buy that.
 
-Let's turn this question around. Why do we do it in C? Because we've historically done it that way! And tradition is good, right? Tradition, tradition!
+The history of programming languages says not to buy it. We invented assembler because we were sick of programming using DIP switches. We invented FORTRAN because we were sick of assembler. And we invented modern dynamic languages for the same reason. Because the increasing levels of abstraction let us do ever-more complicated things with these ever-more-powerful machines.
+
+Let's turn this question around. Why do we *still* do it in C? Because we've historically done it that way! And tradition is good, right? Tradition, tradition!
 
 Why do embedded programmers use C anyway?
 
-Until recently, it was *the only feasible approach.* Hardware was tiny and slow, and if it wasn't tiny it was expensive. C is the high-level language that gives you the control you need over memory in those tiny environments. It's unparalleled at this. If you've got real-time performance requirements-- say you're running a bone saw doing hip surgery-- C is what you'll choose. And if you're operating in heavily resource-constrained environments, where you're counting bytes to keep memory use down, C is what you'll choose.
+Until recently, it was *the only feasible approach.* Embedded hardware tends to just big enough to get its job done, because it needs to be cheap. Or if it's not cheap & tiny, it's doing something with real-time constraints. C is the high-level language that gives you the control you need. It's unparalleled at this. If you've got real-time performance requirements-- say you're running a bone saw doing hip surgery-- C is what you'll choose. And if you're operating in heavily resource-constrained environments, where you're counting bytes to keep memory use down, C is what you'll choose.
 
 But guess what. Moore's Law is a thing. Environments aren't tiny any more, in this era of the ARM processor. These things may be physically tiny, but they're not slow. And they're not expensive. Not any more. Two breakthrough boards are responsible for kicking off this new era, and they're amazingly cheap. 
 
@@ -38,15 +38,9 @@ And guess what language you're using to program it. That's right: ANYTHING YOU W
 
 The Raspberry Pi costs $40.
 
-This is *affordable.* And this means that hardware tinkering has suddenly come within the reach of a lot of people who might never have tried it before. The Raspberry Pi was developed to get a hackable computer back into schoolrooms in the UK, so today's kids could have programming experiences more like the ones my generation had, with computers like the Apple II and the BBC Acorn. Guess what! It's working. Hardware hacking is accessible to kids again.
+This is *affordable.* And this means that hardware tinkering has suddenly come within the reach of a lot of people who might never have tried it before. The Raspberry Pi was developed to get a hackable computer back into schoolrooms in the UK, so today's kids could have programming experiences more like the ones my generation had, with computers like the Apple II and the BBC Acorn. Guess what! It's working. This thing has all the convenience of a real OS with all the convenience of easily-accessible pins. It's not wrapped away in a case & securitied-up so you can't touch it. 
 
-So great, you *can* do hardware programming in Javascript. Should you? Maybe you should eat your vegetables and learn C. Kale is good for you, I hear, just like malloc.
-
-Yeah, I don't buy that.
-
-The history of programming languages says not to buy it. We invented assembler because we were sick of programming using DIP switches. We invented FORTRAN because we were sick of assembler. And we invented modern dynamic languages for the same reason. Because the increasing levels of abstraction let us do ever-more complicated things with these ever-more-powerful machines.
-
-The Raspberry Pi is a modern computer. It's got CPU cycles coming out its ears. Run your favorite language on it. You already know the language; your startup time is zero. You can concentrate on solving the robotics problem, not on struggling with your tools. And if you're just learning to program in the first place, you get to have all the fun of blinking an LED or moving a robot arm with a programming language that doesn't slice your fingers off.
+And the Raspberry Pi is a modern computer. It's got CPU cycles coming out its ears. Run your favorite language on it. You already know the language; your startup time is zero. You can concentrate on solving the robotics problem, not on struggling with your tools. And if you're just learning to program in the first place, you get to have all the fun of blinking an LED or moving a robot arm with a programming language that doesn't slice your fingers off.
 
 The Internet of Things? It's happening right now, as people connect all kinds of tiny devices together using Javascript, or Python, or Ruby, or whatever language they like best.
 
