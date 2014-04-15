@@ -9,19 +9,25 @@
 
 ---
 
-# [fit] security vulnerability
-# [fit] caused by a bug in
-# [fit] OpenSSL
+# [fit] what's heartbleed?
 
 ^ Not a virus. This has started showing up in on the TV news as garbled as "virus", but it's not. It's a bug in server software. A very serious vulnerability.
 
 ---
 
+# [fit] security vulnerability
 # [fit] disclosed April 7
 # [fit] 2/3rds of all secure servers
-# [fit] https://
 
-^ If you visit a `secure` website, your communication back & forth to it is encrypted. The protocol used to encrypt is is something TLS, a successor of SSL. OpenSSL is the most popular open-source implementation of this protocol.
+^ That's 2/3rds of all secure servers on the entire Internet.
+
+---
+
+# [fit] OpenSSL
+## [fit] the secure 's' in
+## [fit] https://
+
+^ If you visit a `secure` website, your communication back & forth to it is encrypted. The protocol used to encrypt is called TLS. OpenSSL is the most popular open-source implementation of this protocol.
 
 ---
 
