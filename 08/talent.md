@@ -78,6 +78,10 @@
 
 ---
 
+# [fit] TRANSITION
+
+---
+
 # [fit] Opportunity
 
 ^ Access to resources. Doesn't do much good if you're obsessed with playing the guitar if you don't have one to play. Or you have a guitar but no instruction. Or if you lock yourself in the bedroom with a Les Paul and a stack of blues records, but you're a girl & get made fun of.
@@ -106,27 +110,29 @@
 
 ---
 
-# [fit] opportunity
+# [fit] That's opportunity.
 
-^ Money. Privilege. For every Phelps with his long arms, there are a thousand other kids out there with the same build who never got a chance to learn how to swim. Are they just not *talented*? Or do they have less privilege?
-
----
-
-# [fit] phelps is
-# [fit] obsessed
-
-^ He cares enough about swimming to devote the hours of training & practice. For every Phelps winning medals, there are a thousand young people who have the basic body type, have a pool, have doting parents, but hate swimming. They want to be guitarists instead. Are they just not *talented?* Or are they uninterested?
+^ Money. Privilege. Lots of kids have Phelps's build but no swimming pool? Not talented?
 
 ---
 
-# [fit] Here's the kicker.
+# [fit] how much drive
+# [fit] do the Olympics take?
 
-^ That freakishly large wingspan? Turns out you can modify your bone density by exercising a lot when you're an adolescent. Phelps has those arms partly because he was using them a ton when he was a teenager.
+^ How much time did Phelps devote to training?
+
+---
+
+# [fit] That's obsession.
+
+^ For every Phelps there's a kid with the same build & access to a guitar who wanted to play guitar instead.
 
 ---
 
 # [fit] midichlorians
 # [fit] are myth.
+
+^ Phelps's medals came from his own drive & good luck, not because of any fate in his blood. He made himself into that winner.
 
 ---
 
@@ -138,13 +144,13 @@
 
 ![](file:///Users/ceej/Dropbox/projects/toastmasters/08/loaded_barbell.jpeg)
 
-^ I lifted this yesterday morning. 335 pounds. Am I a talented weightlifter? No. I started by picking up the empty bar. And I repeated that. I loved doing it, so I did even more. Want to know what I'm even more obsessed with?
+^ That's the barbell I lifted yesterday morning. 335#. Am I talented? Nope. I'm obsessed with access to a gym. I'm even more obsessed with this:
 
 ---
 
-![](file:///Users/ceej/Dropbox/projects/toastmasters/08/obsession_charted.png)
+![top](file:///Users/ceej/Dropbox/projects/toastmasters/08/obsession_charted.png)
 
-^ Writing software. I write a lot of it, and some of it even works. But please don't call me talented.
+^ Writing software. I write it every day, and some of it even works. But please don't call me talented.
 
 ---
 
@@ -165,7 +171,7 @@
 # [fit] the 10x
 # [fit] programmer
 
-^ You've heard of this person, right? The mythical programmer who does the work of 10 other people. This is usually tied up with nonsense about 80 hour work weeks and other utter bunk, so people dismiss it. I don't. But I also don't think you should try to be 10x me, or 10x that other person on your team.
+^ The mythical 10x programmer is the person who does the work of 10 others. Myth? I think it's real. But here's the twist: not 10x the other person.
 
 ---
 
@@ -183,23 +189,11 @@
 
 ---
 
-# [fit] Flip it
-
----
-
-# [fit] provide the
-# [fit] opportunity
-# [fit] to a newbie
-
-^ Everybody needs that opportunity, that access to a good teacher, or materials, or equipment. You have something that somebody just starting out needs. Why not share it? Give a leg up to the people they'll be calling "talented" a decade from now.
-
----
-
 # [fit] Talent ==
 # [fit] obsession +
 # [fit] opportunity
 
-^ And this means you can have it too.
+^ Then you can tell the next person who describes you as "talented" what a terrible word that is for what you are.
 
 ---
 # [fit] C J Silverio
