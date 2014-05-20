@@ -9,7 +9,7 @@
 # [fit] *talented*
 # [fit] programmer."
 
-^ Or "looking for talented full-stack engineers; must be rock star ninjas."
+^ (Read & move.)
 
 ---
 
@@ -17,13 +17,13 @@
 # [fit] *talented*
 # [fit] ballet dancer.
 
-^ You've heard this. So-and-so is talented and amazing and does things other people marvel at. Talent! It's a thing people have! I'm not sure how they get it, but woo, that guy sure has it. I wonder what it is.
+^ Talent! It's a thing people have! I'm not sure how they get it, but woo, that guy sure has it. I wonder what it is.
 
 ---
 
 # [fit] midichlorians
 
-^ Maybe talent is midichlorians. You remember, the stuff in your blood that made you a Jedi. It's just like royal blood!
+^ royal blood
 
 ---
 
@@ -31,21 +31,35 @@
 
 ## [fit] He's got 'em. We don't.
 
-^ The implication is, don't even bother if you have these talent dinguses in your blood. You either have it or not. There is no try. I don't buy it.
+^ he gets to use a light saber. the rest of us just aren't talented.
 
 ---
 
 # [fit] Nobody is born
 # [fit] knowing how to program.
 
-^ or dance ballet or fight with a lightsaber. These are learned skills. This implies that somewhere between the time when that "talented developer" was a baby & when she took that rock star ninja full stack job, she learned how to program.
+^ Nope. Programming, ballet dancing, light saber fencing are learned skills.
 
 ---
 
 # [fit] We see an
 # [fit] endpoint
 
-^ What you see is the endpoint: the seemingly effortless display of skill. We call that "talent". This term does us a terrible disservice, however, because "talent" is a static word. Skill is not static, though. It's a state of being, an ongoing process. Something you construct.
+^ Endpoint: seemingly effortless display of skill. We summarize that as talent We call that "talent".
+
+---
+
+# [fit] Why not say
+# [fit] "talented"?
+
+^ This term does us a terrible disservice, however, because "talent" is a static word. Why is it terrible?
+
+---
+
+# [fit] Growth
+# [fit] mindset.
+
+^ Skill is not static. It's a state of being, an ongoing process. Something you construct. You can change if you think you can change. If you think of your abilities as something you can modify, you will modify them.
 
 ---
 
@@ -75,10 +89,6 @@
 # [fit] Drive
 
 ^ Two other words for this feeling. This is the level of motivation that makes you skip doing other things because you are just *so* fascinated by this one thing. For us here in this room, it's probably programming computers.
-
----
-
-# [fit] TRANSITION
 
 ---
 
@@ -129,19 +139,6 @@
 
 ---
 
-# [fit] midichlorians
-# [fit] are myth.
-
-^ Phelps's medals came from his own drive & good luck, not because of any fate in his blood. He made himself into that winner.
-
----
-
-# [fit] We are malleable.
-
-^ You are malleable. Your body is malleable. Your brain is malleable. Want an real-world example?
-
----
-
 ![](file:///Users/ceej/Dropbox/projects/toastmasters/08/loaded_barbell.jpeg)
 
 ^ That's the barbell I lifted yesterday morning. 335#. Am I talented? Nope. I'm obsessed with access to a gym. I'm even more obsessed with this:
@@ -154,17 +151,16 @@
 
 ---
 
-# [fit] Why not say
-# [fit] "talented"?
+# [fit] midichlorians
+# [fit] are myth.
 
-^ Because of what it does to my head. It locks me in place.
+^ Phelps's medals came from his own drive & good luck, not because of any fate in his blood. He made himself into that winner.
 
 ---
 
-# [fit] Growth
-# [fit] mindset.
+# [fit] We are malleable.
 
-^ You can change if you think you can change. If you think of your abilities as something you can modify, you will modify them.
+^ You are malleable. Your body is malleable. Your brain is malleable. Want an real-world example?
 
 ---
 
