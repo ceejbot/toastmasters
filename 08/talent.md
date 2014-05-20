@@ -1,11 +1,15 @@
 # [fit] talent
 ## [fit] the pernicious myth
 
+^ Talent! It's a word I hear a lot.
+
 ---
 
 # [fit] "She's such a
 # [fit] *talented*
 # [fit] programmer."
+
+^ Or "looking for talented full-stack engineers; must be rock star ninjas."
 
 ---
 
@@ -13,13 +17,13 @@
 # [fit] *talented*
 # [fit] ballet dancer.
 
-^ You've heard this. So-and-so is talented and amazing and does things other people marvel at. Talent! It's a thing people have!
+^ You've heard this. So-and-so is talented and amazing and does things other people marvel at. Talent! It's a thing people have! I'm not sure how they get it, but woo, that guy sure has it. I wonder what it is.
 
 ---
 
 # [fit] midichlorians
 
-^ Like this stuff. You remember, the stuff in your blood that made you a Jedi. It's just like royal blood!
+^ Maybe talent is midichlorians. You remember, the stuff in your blood that made you a Jedi. It's just like royal blood!
 
 ---
 
@@ -34,7 +38,7 @@
 # [fit] Nobody is born
 # [fit] knowing how to program.
 
-^ or dance ballet or fight with a lightsaber. These are learned skills.
+^ or dance ballet or fight with a lightsaber. These are learned skills. This implies that somewhere between the time when that "talented developer" was a baby & when she took that rock star ninja full stack job, she learned how to program.
 
 ---
 
@@ -57,45 +61,46 @@
 # [fit] opportunity
 
 
-^ What do I mean by this?
+^ What do I mean by this? Let's look at those two pieces.
 
 ---
 
 # [fit] Obsession
 
-^ Handy word to cover motivation. And not just any motivation-- we're talking about being *driven*. I'd really like to ski jump, but not enough to go find a mountain with one of those ramp things and *do* it even once, never mind enough times to not fall on my face like that guy from the thrill of victory & the agony of defeat.
+^ Handy word to cover motivation. And not just any motivation-- we're talking about being *driven*. I'd really like to ski jump, but not enough to go find a mountain with one of those ramp things and *do* it even once, never mind enough times to not fall on my face.
 
 ---
 
 # [fit] Interest
 # [fit] Drive
 
-^ This is the level of motivation that makes you skip doing other things because you are just *so* fascinated by this other thing. For us here in this room, it's probably programming computers.
+^ Two other words for this feeling. This is the level of motivation that makes you skip doing other things because you are just *so* fascinated by this one thing. For us here in this room, it's probably programming computers.
 
 ---
 
 # [fit] Opportunity
 
-^ Access to resources. Doesn't do much good if you're obsessed with playing the guitar if you don't have one to play. Or if you get one but you don't have any instruction to get you over sticky points. Or if you lock yourself in the bedroom with a Les Paul and a stack of blues records, but everybody makes fun of you because you're a girl.
+^ Access to resources. Doesn't do much good if you're obsessed with playing the guitar if you don't have one to play. Or you have a guitar but no instruction. Or if you lock yourself in the bedroom with a Les Paul and a stack of blues records, but you're a girl & get made fun of.
 
 ---
 
 # [fit] case study
 # [fit] Michael Phelps
 
+^ Let me show you an example. Michael Phelps.
+
 ---
 
 ![](http://footballmentaltoughness.com/wp-content/uploads/2013/01/michael-phelps-fly.jpg)
 
 
-^ Take Michael Phelps. A talented swimmer, right? Won all those Olympic medals. And Phelps *does* have some genetic advantages that help him swimming. He has a freakishly huge wingspan. You know what else he has?
+^ This guy. Olympic medalist. A talented swimmer, right? He must be! And Phelps *does* have some genetic advantages that help him swimming. He has a freakishly huge wingspan. You know what else he has?
 
 ---
 
-# [fit] Coaching
-# [fit] a pool
-# [fit] time
-# [fit] parents
+# [fit] Coaching.
+# [fit] a pool.
+# [fit] parents.
 
 ^ Access to a swimming pool when he was a kid. Coaching to help him learn how to swim. Time to swim. Parents who supported him.
 
@@ -114,14 +119,14 @@
 
 ---
 
-# [fit] Guess what.
+# [fit] Here's the kicker.
+
+^ That freakishly large wingspan? Turns out you can modify your bone density by exercising a lot when you're an adolescent. Phelps has those arms partly because he was using them a ton when he was a teenager.
 
 ---
 
 # [fit] midichlorians
 # [fit] are myth.
-
-^ That freakishly large wingspan? Turns out you can modify your bone density by exercising a lot when you're an adolescent. Phelps has those arms partly because he was using them a ton when he was a teenager.
 
 ---
 
@@ -160,7 +165,7 @@
 # [fit] the 10x
 # [fit] programmer
 
-^ You've heard of this person, right? The mythical programmer who does the work of 10 other people. This is usually tied up with nonsense about people who don't sleep pull 80 hour work weeks and other utter bunk, so people dismiss it. I don't. But I also don't think you should try to be 10x me, or 10x your team.
+^ You've heard of this person, right? The mythical programmer who does the work of 10 other people. This is usually tied up with nonsense about 80 hour work weeks and other utter bunk, so people dismiss it. I don't. But I also don't think you should try to be 10x me, or 10x that other person on your team.
 
 ---
 
