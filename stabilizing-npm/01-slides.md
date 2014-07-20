@@ -140,6 +140,7 @@ Ubuntu Trusty
 * CouchDB for package metadata & app logic
 * nagios + PagerDuty for monitoring
 * InfluxDB + Grafana for metrics
+* Tarsnap for backups
 
 ^ We pay to have InfluxDB hosted.
 
@@ -161,6 +162,7 @@ Ubuntu Trusty
 # weak points
 
 * single points of failure: Fastly, write primary
+* still looking for an off-AWS backup
 * expensive to run: too many couchdbs
 * too entangled with couchdb
 * complex in odd places: the skimworker, for example
