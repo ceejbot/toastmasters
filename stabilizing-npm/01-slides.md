@@ -116,7 +116,7 @@
 # [fit] Superficially
 # [fit] similar.
 
-^ The registry July 2014. Manta is now a backup store for us-- tarballs are served from a file system behind nginx. We have a write primary & a second replication primary, and a bunch of leaves that just read from the replication primary.
+^ The registry July 2014. We are reliable now. We know when our providers are down before they do sometimes. Manta is now a backup store for us-- tarballs are served from a file system behind nginx. We have a write primary & a second replication primary, and a bunch of leaves that just read from the replication primary.
 
 ---
 
@@ -128,7 +128,7 @@ Ubuntu Trusty
 100% automated with ansible
 52 running instances, variable
 
-^ I'm like a dance DJ-- I made all these changes while matching beats. The new infrastructure would run alongside the old one. I'd fade the old one out & the new one in & registry users wouldn't notice the transition. We are reliable now. We know when our providers are down before they do sometimes.
+^ I'm like a dance DJ-- I made all these changes while matching beats. The new infrastructure would run alongside the old one. I'd fade the old one out & the new one in & registry users wouldn't notice the transition.
 
 ---
 
@@ -172,7 +172,7 @@ Ubuntu Trusty
 # [fit] I now praise
 # [fit] CouchDB
 
-^ It carried the registry a long long way all by itself before falling over. Its replication is rock-solid & is a building block of our architecture. It also publishes a reliable changes feed that is crucial to how we build our redundancy. Now that we're on Ubuntu it's reliable.
+^ It carried the registry a long long way all by itself before falling over. Its replication is rock-solid & is a building block of our architecture. It also publishes a reliable changes feed that is crucial to how we build our redundancy. Now that we're on Ubuntu it's reliable and easy to deploy. I like it, especially now that we're no longer making it do things it's bad at.
 
 ---
 
@@ -184,5 +184,5 @@ Ubuntu Trusty
 ---
 
 # [fit] my real goal:
-# [fit] make you forget that
-# [fit] npm ever went down
+# [fit] npm so reliable
+# [fit] it's like a utility
