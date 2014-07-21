@@ -43,7 +43,7 @@
 
 ![left](assets/arch_jan_2014.png)
 
-# [fit] January 2013
+# [fit] January 2014
 
 ^ This was more or less holding up under the load, though there were still outages with absolutely no visibility into why.
 
