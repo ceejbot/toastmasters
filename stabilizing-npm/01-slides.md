@@ -18,17 +18,12 @@
 
 # [fit] side project
 # [fit] 100% couchdb
+# [fit] donated hosting
+# [fit] IrisCouch ![inline](./assets/iriscouch.jpg)
+
 ![15%, left](assets/npm-logo-white-trans.png)
 
-^ Starting point: it was Isaac Schlueter's side project. It was implemented as a couchdb application: the user auth was couchdb auth, all the logic was stored in couchdb & executed there. All the package tarballs were also stored in couchdb.
-
----
-
-# [fit] IrisCouch ![inline](./assets/iriscouch.jpg)
-## donated hosting
-## (purchased by Nodejitsu)
-
-^ The hosting story is typical: it was donated as an advertising thing back when there were a few hundred packages on it. This was awesome as long as it was working, which was a long time. Then this happened.
+^ Starting point: it was Isaac Schlueter's side project. It was implemented as a couchdb application: the user auth was couchdb auth, all the logic was stored in couchdb & executed there. All the package tarballs were also stored in couchdb. The hosting story is typical: it was donated as an advertising thing back when there were a few hundred packages on it. This was awesome as long as it was working, which was a long time. Then this happened.
 
 ---
 
@@ -60,8 +55,8 @@
 * 100% hosted on Joyent
 * several skimdbs load-balanced by Fastly
 * hand-built CouchDB + Spidermonkey
-* no monitoring
 * automation by bash
+* Twitter tells us when we're down
 
 ^ The registry is no longer in emergency mode, but it's still suffering periodic downtime. We have a contractor in South Africa, Jacques Marneweck, who is doing fantastic work getting us functional on SmartOS.
 
