@@ -22,17 +22,19 @@
 
 ![15%, left](assets/npm-logo-white-trans.png)
 
-^ Starting point: it was Isaac Schlueter's side project. It was implemented as a couchdb application: the user auth was couchdb auth, all the logic was stored in couchdb & executed there. All the package tarballs were also stored in couchdb. The hosting story is typical: it was donated as an advertising thing back when there were a few hundred packages on it. This was awesome as long as it was working, which was a long time. Then this happened.
+^ To understand instability, understand where it came from. Side project. Couchdb application. All logic in couchdb, also all data including tarballs. Donated hosting from IrisCouch, cheap back when it was small. Then node took off.
 
 ---
 
 ![120%](assets/npm_monthly_dls.png)
 
+^ Blue line: package counts. Red line: monthly downloads. Jan 2013 13 mill per month. We now get 17 million per day. 300 mill / month. In Nov 2013, we hit. 116M / month, 46K packages. This happened.
+
 ---
 
 ![original](assets/servers_down.jpg)
 
-^ November 2013 was when the benign neglect finally caught up with the registry. This is when Nodejitsu ran the "scale npm" fundraiser.  What you did get from that fundraiser that was worth it was that the registry was up at all during that month.
+^ Benign neglect caught up. This is when Nodejitsu ran the "scale npm" fundraiser.  What you did get from that fundraiser that was worth it was that the registry was up at all during that month.
 
 ---
 
@@ -78,18 +80,19 @@
 # [fit] Funding also means attention
 # [fit] from bounty-hunters.
 
-^ We had security breaches my first week on the job, from "white hats" in search of bounties. This led pretty directly to our next major outage. We replaced the registry cert but didn't choose one from a provider that old clients knew how to trust. There are a LOT of old clients out there, some of them un-upgradeable.
+^ We had security breaches my first week on the job, from "white hats" in search of bounties. Next major outage. We replaced the registry cert but didn't choose one from a provider that old clients knew how to trust. There are a LOT of old clients out there, some of them un-upgradeable.
 
 ---
 
 # [fit] security audit
 ![50%, left](assets/lift-security.png)
 
-^ Raquel Velez, our web engineer, got most of the work resulting from this, but we had to start firewalling.
+^ Excellent firm, lots of work fell out of this. Raquel Velez, our web engineer, got most of the work resulting from this, but we had to start firewalling.
 
 ---
 
 # Stabilization stage 1
+## reactive
 
 * monitor everything more deeply
 * methodically identify & monitor causes of outages
@@ -99,11 +102,11 @@
 ---
 
 # Stabilization stage 2
+## proactive
 
 * our second devops person: Ben Coe
 * recurring problems fixed in the apps
 * monitoring checks self-heal
-* monitoring looks ahead at trends
 * redundancy everywhere
 * automation!
 * our night shift is bored!
@@ -115,7 +118,7 @@
 # [fit] Superficially
 # [fit] similar.
 
-^ The registry July 2014. We are reliable now. We know when our providers are down before they do sometimes. Manta is now a backup store for us-- tarballs are served from a file system behind nginx. We have a write primary & a second replication primary, and a bunch of leaves that just read from the replication primary.
+^ Last month. Pretty reliable. We know when our providers are down before they do sometimes. Manta is gone-- tarballs are served from a file system behind nginx. We have a write primary & a second replication primary, and a bunch of leaves that just read from the replication primary.
 
 ---
 
@@ -127,7 +130,7 @@ Ubuntu Trusty
 100% automated with ansible
 52 running instances, variable
 
-^ I'm like a dance DJ-- I made all these changes while matching beats. The new infrastructure would run alongside the old one. I'd fade the old one out & the new one in & registry users wouldn't notice the transition.
+^ DJ mode: The new infrastructure would run alongside the old one. I'd fade the old one out & the new one in & registry users wouldn't notice the transition.
 
 ---
 
@@ -171,7 +174,7 @@ Ubuntu Trusty
 # [fit] I now praise
 # [fit] CouchDB
 
-^ It carried the registry a long long way all by itself before falling over. Its replication is rock-solid & is a building block of our architecture. It also publishes a reliable changes feed that is crucial to how we build our redundancy. Now that we're on Ubuntu it's reliable and easy to deploy. I like it, especially now that we're no longer making it do things it's bad at.
+^ Carried the registry a long way before falling over. Replication is rock-solid building block forour architecture. Reliable changes feed that is crucial to how we build our redundancy. Doesn't fall over now that we don't make it do things its bad at.
 
 ---
 
@@ -184,7 +187,7 @@ Ubuntu Trusty
 
 ![left, fit](assets/registry_arch_next.png)
 
-# [fit] Registry.next
+# [fit] by next week
 # [fit] haproxy
 # [fit] 50-50 region balance
 # [fit] cheaper by far
