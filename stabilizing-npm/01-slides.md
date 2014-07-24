@@ -15,7 +15,6 @@
 
 ---
 
-
 # [fit] side project
 # [fit] 100% couchdb
 # [fit] donated hosting
@@ -27,9 +26,13 @@
 
 ---
 
+![120%](assets/npm_monthly_dls.png)
+
+---
+
 ![original](assets/servers_down.jpg)
 
-^ November 2013 was when the benign neglect finally caught up with the registry. This is when Nodejitsu ran the "scale npm" fundraiser. I'm still waiting for my t-shirt too, so don't ask me where they are. What you did get from that fundraiser that was worth it was that the registry was up at all during that month.
+^ November 2013 was when the benign neglect finally caught up with the registry. This is when Nodejitsu ran the "scale npm" fundraiser.  What you did get from that fundraiser that was worth it was that the registry was up at all during that month.
 
 ---
 
@@ -108,6 +111,7 @@
 ---
 
 ![fit, left](assets/arch_jul_2014.png)
+# [fit] June 2013
 # [fit] Superficially
 # [fit] similar.
 
@@ -178,6 +182,15 @@ Ubuntu Trusty
 
 ---
 
-# [fit] my real goal:
-# [fit] npm so reliable
-# [fit] it's like a utility
+![left, fit](assets/registry_arch_next.png)
+
+# [fit] Registry.next
+# [fit] haproxy
+# [fit] 50-50 region balance
+# [fit] cheaper by far
+
+---
+
+# [fit] my long-term goal:
+# [fit] npm as reliable
+# [fit] utility
