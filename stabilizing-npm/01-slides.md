@@ -174,7 +174,7 @@ Ubuntu Trusty
 # [fit] I now praise
 # [fit] CouchDB
 
-^ Carried the registry a long way before falling over. Replication is rock-solid building block forour architecture. Reliable changes feed that is crucial to how we build our redundancy. Doesn't fall over now that we don't make it do things its bad at.
+^ Carried the registry a long way before falling over. Replication is rock-solid building block for architecture. Reliable changes feed that is crucial to how we build our redundancy. Doesn't fall over now that we don't make it do things its bad at.
 
 ---
 
