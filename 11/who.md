@@ -26,11 +26,34 @@
 
 ---
 
+# [fit] Enemies:
+# [fit] The Master, cybermen, autons,
+# [fit] his fellow Time Lords
+
+---
+
+![left](assets/dalek.jpg)
+
+# [fit] Daleks
+# [fit] "Exterminate!"
+
+^ The Doctor's #1 most famous enemy. Toilet plunger!
+
+---
+
+# [fit] The Doctor is a
+# [fit] trickster
+
+^ Lies, manipulates, sometimes does horrible things for greater good.
+
+---
+
 # [fit] The Doctor
 # [fit] has no name
 # [fit] \(that we know)
 
 ^ The title of the show is a question: Who is he? Alien, two hearts, on the run with a stolen tardis, but why?
+
 
 ---
 
@@ -55,9 +78,8 @@
 # [fit] Two
 # [fit] Patrick Troughton
 # [fit] 1966 - 1969
-# [fit] "the cosmic hobo"
-
-"When I say run, run!"
+# [fit] the cosmic hobo
+# [fit] "When I say run, run!"
 
 ^ Most famous companion was Jamie, a Scots boy in a kilt. My personal favorite. Most of his episodes were toasted by the BBC.
 
@@ -67,9 +89,10 @@
 # [fit] Three
 # [fit] Jon Pertwee
 # [fit] 1970-1974
-# [fit] "the dandy"
+# [fit] the dandy
+# [fit] "Reverse the polarity!"
 
-^ The first Doctor to be in color. He drove a car, Bessie, when he was trapped on earth. The second Doctor called him "Fancy Pants".
+^ 1st doctor in color, 1st doc with sonic screwdriver. He drove a car, Bessie, when he was trapped on earth. The second Doctor called him "Fancy Pants".
 
 ---
 
@@ -77,7 +100,7 @@
 # [fit] Four
 # [fit] Tom Baker
 # [fit] 1974-1981
-# [fit] "the one with the scarf"
+# [fit] the one with the scarf
 
 ^ The Doctor Americans met first. Lucky to be written by Douglas Adams. Beloved. Sarah Jane Smith.
 
@@ -87,7 +110,7 @@
 # [fit] Five
 # [fit] Peter Davison
 # [fit] 1981-1984
-# [fit] "the cute blond one"
+# [fit] the cute blond one
 
 ^ He played cricket & wore a stick of celery on his lapel. A fan favorite, got some great writing. Adric, Turlough.
 
@@ -97,7 +120,7 @@
 # [fit] Six
 # [fit] Colin Baker
 # [fit] 1984-186
-# [fit] "the one nobody likes"
+# [fit] the one nobody likes
 
 ^ Bad writing and probably bad casting.
 
@@ -115,7 +138,7 @@
 
 # [fit] Cancellation
 
-^ Dark times. Kept alive in radio plays, called the audio adventures.
+^ Dark times. Kept alive in radio plays, called the audio adventures. 7 years.
 
 ---
 
@@ -123,9 +146,9 @@
 # [fit] Eight
 # [fit] Paul McGann
 # [fit] 1996
-# [fit] "the American Doctor"
+# [fit] the American Doctor
 
-^ A TV movie, bizarrely set in San Francisco.
+^ A TV movie, bizarrely set in San Francisco. Did not prompt an American reboot.
 
 ---
 
@@ -184,5 +207,14 @@
 # [fit] Twelve
 # [fit] Peter Capaldi
 # [fit] 2014-
+# [fit] Attack eyebrows
 
 ^ Back to the tradition of older Doctors played by strong actors. Inspired by Three.
+
+---
+
+# [fit] The Doctor changes.
+# [fit] The companions change.
+# [fit] Only the TARDIS remains.
+
+^ 50 years from now, somebody called The Doctor will travel thru time & space in a TARDIS. That'll be the only similarity, but it'll still be Who.
